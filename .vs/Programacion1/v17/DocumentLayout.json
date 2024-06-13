@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Programacion1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{962146F3-112A-4C3C-A997-D23C785C37FE}|Programacion1\\Programacion1.vcxproj|C:\\Users\\Lenovo\\source\\repos\\Programacion1\\Programacion1\\Programacion1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{962146F3-112A-4C3C-A997-D23C785C37FE}|Programacion1\\Programacion1.vcxproj|solutionrelative:Programacion1\\Programacion1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Programacion1.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Programacion1\\Programacion1\\Programacion1.cpp",
+              "RelativeDocumentMoniker": "Programacion1\\Programacion1.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Programacion1\\Programacion1\\Programacion1.cpp",
+              "RelativeToolTip": "Programacion1\\Programacion1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-11T15:12:36.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
